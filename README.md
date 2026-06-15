@@ -7,11 +7,15 @@ Implementasi Case-Based Reasoning (CBR) untuk analisis putusan perkara narkotika
 ## Struktur Repository
 
 data/
+
 ├── raw/              # hasil ekstraksi teks putusan
+
 └── processed/        # hasil representasi kasus
 
 notebooks/
+
 ├── Tahap1_CaseBase.ipynb
+
 └── Tahap2_CaseRepresentation.ipynb
 
 README.md
