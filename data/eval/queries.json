@@ -1,0 +1,16 @@
+[
+    {
+        "query_id": 1,
+        "query": "perantara jual beli sabu",
+        "ground_truth": [
+            42
+        ]
+    },
+    {
+        "query_id": 2,
+        "query": "memiliki narkotika golongan i",
+        "ground_truth": [
+            10
+        ]
+    }
+]
