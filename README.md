@@ -1,6 +1,6 @@
 # :pill: CBR-Narkotika-PN-Tulungagung :syringe:
 
-## Deskripsi Proyek
+## 📌 Deskripsi Proyek
 
 Proyek ini merupakan implementasi **Case-Based Reasoning (CBR)** untuk analisis dan pencarian putusan perkara narkotika pada Pengadilan Negeri Tulungagung.
 
@@ -218,7 +218,7 @@ tqdm
 
 ---
 
-# Cara Menjalankan Pipeline
+# 💻 Cara Menjalankan Pipeline
 
 ## Tahap 1
 
@@ -307,7 +307,7 @@ print(metrics)
 
 ---
 
-# Contoh Hasil Retrieval
+# 📊 Hasil Retrieval
 
 Input Query:
 
@@ -324,7 +324,7 @@ Similarity: 0.34
 
 ---
 
-# Hasil Evaluasi
+# 📊 Hasil Evaluasi
 
 Metrik evaluasi disimpan pada:
 
@@ -357,9 +357,9 @@ Contoh hasil:
 
 ---
 
-# Pengembang
+# Dibuat oleh Asya Cahya Pradana (202210370311041) -  Penalaran Komputer A .
 
-Asya Cahya Pradana
+
 
 202210370311041
 
