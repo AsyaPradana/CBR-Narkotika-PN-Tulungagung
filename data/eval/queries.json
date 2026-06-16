@@ -12,5 +12,26 @@
         "ground_truth": [
             10
         ]
+    },
+    {
+        "query_id": 3,
+        "query": "permufakatan jahat narkotika",
+        "ground_truth": [
+            8
+        ]
+    },
+    {
+        "query_id": 4,
+        "query": "menguasai sabu tanpa hak",
+        "ground_truth": [
+            27
+        ]
+    },
+    {
+        "query_id": 5,
+        "query": "menjual sabu kepada pembeli",
+        "ground_truth": [
+            31
+        ]
     }
 ]
