@@ -183,7 +183,7 @@ data/eval/prediction_metrics.csv
 
 ---
 
-# Instalasi
+# 💻 Instalasi
 
 Clone repository:
 
@@ -201,7 +201,7 @@ pip install -r requirements.txt
 
 ---
 
-# Requirements
+# 📄 Requirements
 
 Contoh isi requirements.txt:
 
@@ -357,12 +357,5 @@ Contoh hasil:
 
 ---
 
-# Dibuat oleh Asya Cahya Pradana (202210370311041) -  Penalaran Komputer A .
+### Dibuat oleh Asya Cahya Pradana (202210370311041) -  Penalaran Komputer A 
 
-
-
-202210370311041
-
-Program Studi Informatika
-
-Universitas Muhamadiyah Malabg
