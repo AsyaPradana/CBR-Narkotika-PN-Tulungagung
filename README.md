@@ -51,15 +51,15 @@ CBR-Narkotika-PN-Tulungagung/
 │   └── results/
 │       └── predictions.csv
 │
+├── logs/
+│   └── cleaning.log
+│
 ├── notebooks/
 │   ├── Tahap1_CaseBased.ipynb
-│   ├── Tahap2_CaseRepresentation.ipynb
+│   ├── Tahap2_CaseRepresentation.ipynb 
 │   ├── Tahap3_CaseRetrieval.ipynb
 │   ├── Tahap4_CaseSolutionReuse.ipynb
 │   └── Tahap5_ModelEvaluation.ipynb
-│
-├── logs/
-│   └── cleaning.log
 │
 ├── .gitignore
 ├── README.md
