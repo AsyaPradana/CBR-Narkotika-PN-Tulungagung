@@ -61,9 +61,9 @@ CBR-Narkotika-PN-Tulungagung/
 ├── logs/
 │   └── cleaning.log
 │
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── .gitignore
+├── requirement.txt
+└── README.md
 ```
 
 ---
